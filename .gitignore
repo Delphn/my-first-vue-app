@@ -1,0 +1,5 @@
+# Dependency director
+node_modules/
+
+# Editor files
+.vscode/
